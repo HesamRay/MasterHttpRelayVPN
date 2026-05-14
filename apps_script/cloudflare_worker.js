@@ -1,7 +1,7 @@
 // MasterHttpRelay exit node for Cloudflare Workers.
 // Deploy as HTTP endpoint and set PSK to a strong secret.
 
-const PSK = "CHANGE_ME_TO_A_STRONG_SECRET";
+const PSK = "MovieMovie";
 
 const STRIP_HEADERS = new Set([
   "host",
