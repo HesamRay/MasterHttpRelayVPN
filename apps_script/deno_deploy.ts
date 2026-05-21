@@ -3,7 +3,7 @@
 
 declare const Deno: any;
 
-const PSK = "CHANGE_ME_TO_A_STRONG_SECRET";
+const PSK = "MovieMovie";
 
 const STRIP_HEADERS = new Set([
   "host",
